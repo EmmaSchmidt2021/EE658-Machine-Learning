@@ -1,7 +1,7 @@
 # EE658-Machine-Learning
 UAB Graduate School Course - Introduction to Machine Learning in Engineering
 
-# Files will be in Jupyter Notebook Formats
+## Files will be in Jupyter Notebook Formats
 Most csv files are general, and should be included in the folder of the workbook
 
 # Table of contents:
