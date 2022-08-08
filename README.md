@@ -2,7 +2,7 @@
 UAB Graduate School Course - Introduction to Machine Learning in Engineering
 
 ## Files will be in Jupyter Notebook Formats
-Most csv files are general, and should be included in the folder of the workbook
+Most csv files should be included in the folder of the workbook, if not, are most likely on a platform such as Kaggle.
 
 # Table of contents:
 ## 1. Algorithms:
